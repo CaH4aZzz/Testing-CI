@@ -19,11 +19,5 @@ notifications:
   email:
     recipients:
       - CaH4aZzz@gmail.com
-      - kosten27@gmail.com
-      - artem.sobolenko@gmail.com
-      - kjuby009@gmail.com
-      - xvanyax2008@gmail.com
-      - yurasicv@gmail.com
-      - klitsenko.dmitriy@gmail.com
     on_success: never
     on_failure: always
