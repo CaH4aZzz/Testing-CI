@@ -71,4 +71,9 @@ public class Component extends AbstractNameEntity {
     public void setInvoiceItems(List<InvoiceItem> invoiceItems) {
         this.invoiceItems = invoiceItems;
     }
+
+    public int testSum(){
+        2
+        return 77;
+    }
 }
